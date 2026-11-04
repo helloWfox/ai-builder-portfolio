@@ -1,0 +1,8 @@
+node_modules/
+jarvis-state/
+lovable.config.json
+*.log
+*.bak*
+.env
+.env.*
+!.env.example

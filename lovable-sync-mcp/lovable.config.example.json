@@ -1,0 +1,8 @@
+{
+  "roots": ["./projetos"],
+  "ignore": ["node_modules", "dist", "build", ".next"],
+  "projects": {
+    "meu-app": { "alias": "app", "lovableUrl": "https://lovable.dev/projects/<id-do-projeto>" },
+    "app-legado": { "skip": true }
+  }
+}

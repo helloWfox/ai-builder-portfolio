@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "lovable-sync": {
+      "command": "node",
+      "args": ["./server/index.mjs"],
+      "env": { "LOVABLE_MCP_ROOT": "./projetos", "JARVIS_TEAM": "Ana,Bruno" }
+    }
+  }
+}
